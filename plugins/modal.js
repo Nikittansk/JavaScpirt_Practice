@@ -54,8 +54,6 @@ function _createModal(options) {
             <div class="modal-body" data-content>
                 ${options.content || ''}
             </div>
-
-
         </div>
     </div>
     `)
